@@ -8,7 +8,7 @@
 # edge_snap_x = 30
 # terminal_exec = x-terminal-emulator
 # terminal_args = -e
- monitor = 2
+ monitor = 1
 # hover_delay = 100
 # hide_back_items = 1
 # columns = 1
@@ -50,7 +50,7 @@
 # icon_text_spacing = 10
 # icon_norm_alpha = 100
 # icon_sel_alpha = 100
-icon_theme = arcolinux-candy-beauty
+icon_theme = Sardi-Arc
 # icon_theme_fallback = xtg
 # arrow_string = ▸
 # arrow_width = 15
